@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LinuxEnjoyer420
+- 👀 I’m interested in Linux obviously
+- 🌱 I’m currently learning Vue
+- 📫 How to reach me: please dont
+- ⚡ Fun fact: MacOS is gebaseerd op Unix
